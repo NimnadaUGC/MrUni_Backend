@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>edu.mrUni.crm</groupId>
-    <artifactId>mr_uni_backend</artifactId>
+    <artifactId>MrUni_Backend</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
